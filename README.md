@@ -1,2 +1,1 @@
-# CVSidx
-html css
+# css
